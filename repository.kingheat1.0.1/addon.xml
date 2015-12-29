@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kingheat" name="King HEAT's Repository" version="1.0.1" provider-name="King HEAT">
 	<extension point="xbmc.addon.repository" name="King HEAT's Repository">
-		<info compressed="false">https://raw.githubusercontent.com/kingheat/kingheatrepo/master/addon.xml</info>
+		<info compressed="false">https://raw.githubusercontent.com/kingheat/kingheatrepo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/kingheat/kingheatrepo/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/kingheat/kingheatrepo/master</datadir>
 	</extension>
