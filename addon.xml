@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kingheat" name="King HEAT's Repository" version="1.0" provider-name="king heat">
+	<extension point="xbmc.addon.repository" name="King HEAT Repository">
+		<info compressed="false">https://raw.githubusercontent.com/hmemar/husham.com/master/repository/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/hmemar/husham.com/master/repository/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/hmemar/husham.com/master/zip</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>The King HEAT's Repository'</summary>
+		<description>Download and install addons from King HEAT.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
