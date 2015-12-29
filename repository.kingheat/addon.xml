@@ -3,7 +3,6 @@
 	<extension point="xbmc.addon.repository" name="King HEAT Repository">
 		<info compressed="false">https://raw.githubusercontent.com/kingheat/kingheatrepo/master/addon.xml</info>
 		<checksum>https://raw.githubusercontent.com/kingheat/kingheatrepo/master/addons.xml.md5</checksum>
-=======
 		<info compressed="false">https://raw.githubusercontent.com/kingheat/kingheatrepo/master/repository/addon.xml</info>
 		<checksum>https://raw.githubusercontent.com/kingheat/kingheatrepo/master/repository/addons.xml.md5</checksum>
 >>>>>>> origin/master
@@ -15,7 +14,6 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-=======
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.stalker" name="IPTV Stalker" version="9.0.21" provider-name="esxbr">
     <requires>
@@ -32,8 +30,6 @@
         <license>GNU General Public License, v2</license>
         <language></language>
         <forum>http://iptvtalk.org/showthread.php?7379-Modified-IPTV-Stalker-(9-0-18)-iVue-compatible</forum>
-        
-        
     </extension>
 </addon>
 </addon>
